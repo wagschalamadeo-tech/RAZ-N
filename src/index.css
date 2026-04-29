@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --color-brand-primary: #4a6741; /* Soft forest green */
+  --color-brand-secondary: #fdf6e3; /* Warm parchment beige */
+  --color-brand-accent: #8fb339; /* Fresh grass green */
+}
+
+@keyframes shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-5px); }
+  75% { transform: translateX(5px); }
+}
+
+.animate-shake {
+  animation: shake 0.2s ease-in-out 0s 2;
+}
+
+body {
+  @apply bg-[#fdf6e3] text-[#2c3e50] overflow-x-hidden;
+}
