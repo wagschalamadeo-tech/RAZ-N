@@ -22,7 +22,7 @@ export const WORD_LIST: Level[] = [
     name: "微风草地",
     storyTitle: "Richard：新航路的开启",
     storySegment: "9岁的Richard坐在一艘破旧的小木船上，手里紧紧攥着一本发黄的词典。他并不富有，但他拥有像大海一样广阔的梦想。在这个【微风草地】岸边，他得到了老船长的【advice建议】：想要成为词汇海上的霸主，必须先让意志【independent独立】。Richard深知：在知识的浪潮面前，所有人都是【equal平等的】。",
-    storyPassage: "Richard started his first adventure. Although he was just a kid, he refused to accept those mediocre [advice] from others. He rowed his small boat, searching for things that could change his fate. He met a group of sailors discussing [politics] , talking about [current] water flows and how to use the [bridle] to control the vessel. Richard discovered that only by becoming completely [independent] could he truly master his own [instrument] . He thought like an [inventor] , and even when facing the threat of [disease] , he never stopped. He brought his [inhaler] and moved forward in the storm, knowing that the value of dreams is [equal] for everyone.",
+    storyPassage: "Richard had a big dream. He got some [advice] from a captain. He wanted to be [independent]. He saw a ship in the [current]. He used a [bridle] to control it. He played a musical [instrument]. He wanted to be an [inventor]. He was not afraid of [disease]. He brought his [inhaler] with him. He knew that all people are [equal]. He worked hard to win.",
     storyEnding: "Richard, with his thirst for vocabulary, dug up every word like searching for treasure. He used his knowledge to create his first instrument to repair the sea route. The journey of the Vocabulary King officially began!",
     words: [
       { word: "advice", meaning: "建议，忠告", pos: "n.", phonetic: "ədˈvaɪs", example: "He gave me some good advice on how to learn English." },
@@ -42,7 +42,7 @@ export const WORD_LIST: Level[] = [
     name: "晨曦森林",
     storyTitle: "Richard：迷雾中的破浪者",
     storySegment: "航线进入了诡秘的森林海岸，四周被【mist薄雾】笼罩。Richard虽然被寒气激得不时【wheeze喘息】，但他的眼神依旧坚定。他知道，就像【insect昆虫】通过【antennae触角】感知世界一样，他必须通过不断【communicate交流】和学习，才能在这复杂的词汇森林中生存下去。",
-    storyPassage: "In the depth of the forest, the [mist] became thicker. Richard felt some [symptom] in his body, accompanied by [wheeze] sounds. This might be [trigger] by some allergen in the woods. But he saw a magical [insect] dancing with its long [antennae]. It seemed to [communicate] with its companions. In this [developing] era, he observed a new [species]. He felt the weak [vibration] in the air, as if the whole forest was whispering to him.",
+    storyPassage: "There was [mist] in the forest. Richard had a [wheeze] in his chest. This was a [symptom] of his cold. A bad smell can [trigger] it. He saw an [insect] on a tree. It used its [antennae] to touch. Small animals [communicate] with sounds. He saw a new [species]. He felt a [vibration] in the air. The world is [developing] fast. He was happy to win.",
     storyEnding: "Richard not only saw the direction clearly but also unexpectedly discovered a brand new secret sea area. His calmness and courage became the brightest starlight in this developing era. He began to head into deeper waters!",
     words: [
       { word: "mist", meaning: "薄雾", pos: "n.", phonetic: "mɪst", example: "The morning mist covered the fields." },
@@ -62,7 +62,7 @@ export const WORD_LIST: Level[] = [
     name: "回声山谷",
     storyTitle: "Richard：财富的真谛",
     storySegment: "终于，Richard来到了传说中的【回声山谷】。他虽然疲惫，甚至在极度饥饿时难以【digest消化】干硬的干粮，但他怀揣着心中的【compass指南针】，永不迷路。他在悬崖边高呼自己的理想，整个山谷都回荡着那一遍又一遍的【echo回声】：‘海贼的终点，是知识的巅峰！’",
-    storyPassage: "The hardships along the way were beyond imagination. Due to long-term sailing, Richard's stomach was a bit [infected], making it hard to [digest] food. He could only rest next to a simple [suitcase], without even a soft [mattress]. But he held the [compass] firmly, which pointed the way steadily in the Earth's magnetic [field]. The [echo] on the rocks made him feel he was not alone. He did not become a [victim] of difficulties; instead, he learned to find [balance] in risks. Finally, he discovered that legendary [electric] altar.",
+    storyPassage: "The food was hard to [digest]. Richard's cut got [infected]. He put his [suitcase] on the floor. He slept on a soft [mattress]. He used a [compass] to find the way. They ran across a big [field]. He heard an [echo] in the hills. He saw an [electric] light. He felt the [balance] of the boat. He was not a [victim]. He won at last.",
     storyEnding: "Richard used the electric energy in the valley to light up the whole port. He not only gained the treasures he dreamed of but also the wisdom to make the world better. The once ignorant boy was now the true king of the vocabulary sea!",
     words: [
       { word: "digest", meaning: "消化", pos: "v.", phonetic: "daɪˈdʒɛst", example: "It takes time to digest a heavy meal." },
@@ -82,7 +82,7 @@ export const WORD_LIST: Level[] = [
     name: "铁甲群岛",
     storyTitle: "Richard：钢铁般的意志",
     storySegment: "航线进入了【铁甲群岛】，这里的海浪像钢铁一样坚硬。Richard 遇到了强大的【barrier障碍】，但他从不退缩。他明白，想要【overcome克服】困难，必须拥有比钢铁还坚硬的意志。",
-    storyPassage: "Giant icebergs floated ahead, forming a natural [barrier]. Richard stood on the deck, using his [shield] to block the splashing seawater. He knew every time he [overcome] internal weakness, his [strength] would increase. He continued to [conquer] storms in this unknown [target] sea, showing extraordinary [brave] qualities. This [courage] was not born, but came from the persistent pursuit of [victory]. No matter how tired, his [spirit] never went out.",
+    storyPassage: "The wall was a big [barrier]. Richard used his [strength] to climb. He must [overcome] the tall wall. He used a [shield] against the wind. He was very [brave] and focused. He reached the [target] at the top. He wanted to [conquer] the island. His fighting [spirit] was very strong. He felt the joy of [victory]. It took a lot of [courage].",
     storyEnding: "Richard successfully crossed the islands, and his name echoed among the pirates. He proved that knowledge is the strongest armor.",
     words: [
       { word: "barrier", meaning: "障碍，壁垒", pos: "n.", phonetic: "ˈbæriər", example: "The wall served as a barrier to keep people out." },
@@ -102,7 +102,7 @@ export const WORD_LIST: Level[] = [
     name: "极光之海",
     storyTitle: "Richard：希望的极光",
     storySegment: "在寒冷的北部，【极光之海】闪烁着诡异的光芒。Richard 的船只被冰层封锁，大家陷入了【despair绝望】。但 Richard 指向天空：‘看那光芒，那就是我们要寻找的【destination终点】！’",
-    storyPassage: "Broken [crystal] ice blocks floated on the deep sea, and Richard's journey was full of hardships. But he never felt [despair]. He stood on the deck, watching the [glimmer] on the distant horizon. Even on the most [silent] night, he would [explore] the mysteries of the starry sky. These auroras flickered on the [horizon], acting as a [guide] to lead them to their [destination]. It was truly a [journey] full of [wonder].",
+    storyPassage: "The ice was clear like [crystal]. Richard was not in [despair]. He saw a [glimmer] in the dark. It was on the far [horizon]. He decided to [explore] the cave. A [guide] helped him walk. It was a long [journey]. The cave was very [silent]. The [destination] was finally near. It was a world of [wonder].",
     storyEnding: "The aurora guided the way, and the ice was melted by wisdom. Richard understood: as long as there is light in the heart, the dark night will eventually pass.",
     words: [
       { word: "despair", meaning: "绝望", pos: "n./v.", phonetic: "dɪˈspeər", example: "He was in despair after losing his job." },
@@ -122,7 +122,7 @@ export const WORD_LIST: Level[] = [
     name: "黄金沙滩",
     storyTitle: "Richard：诱惑与选择",
     storySegment: "Richard 来到了传说中堆满金币的【黄金沙滩】。船员们想放下船桨去【settle定居】，享受富足。但 Richard 告诉他们：‘真正的【wealth财富】不在这些金子里，而是在我们的大脑里。’",
-    storyPassage: "The wealth on the island made many people [greedy], but Richard knew the true [value]. Although the gold here could allow him to [settle] forever and stop wandering, he made a wise [choice]. He used a [generous] attitude to exchange knowledge with the locals. He knew every [effort] made behind the scenes was accumulating true [wealth]. He pursued a [stable] inner world, not fleeting vanity. This was the best [reward], and these [precious] treasures were nothing compared to wisdom.",
+    storyPassage: "The gold was [precious] and bright. People were very [greedy] for it. Richard made a better [choice]. He did not want to [settle] here. He was a [generous] leader. He put in a lot of [effort]. He knew the [value] of books. He wanted a [stable] future. Knowledge was his best [reward]. He found true [wealth] in stories.",
     storyEnding: "They took away the most precious collection of books. Richard knew: money will be spent, but knowledge always belongs to yourself.",
     words: [
       { word: "wealth", meaning: "财富", pos: "n.", phonetic: "welθ", example: "He amassed great wealth through his business." },
@@ -142,7 +142,7 @@ export const WORD_LIST: Level[] = [
     name: "智慧灯塔",
     storyTitle: "Richard：照亮前路",
     storySegment: "在狂风大作的夜晚，大海上漂浮着无数的【fragment碎片】。Richard 看到了远处的【lighthouse灯塔】，那是【wisdom智慧】的化身。他必须精准地【navigate导航】，才能避开那些隐藏的暗礁。",
-    storyPassage: "The [ocean] in the storm was full of [danger]. Countless ships became [fragment]. But Richard stared at the [lighthouse]. It was a symbol of [wisdom] and the only [safety] in this deadly [current]. As a great [leader], Richard must [navigate] personally. He was not only for self-preservation but also to [rescue] those lost in the dark.",
+    storyPassage: "The [ocean] was big and deep. There was much [danger] in waves. He found a [fragment] of wood. Then he saw a [lighthouse]. He used his [wisdom] to think. The [safety] of his team was first. He fought the strong [current]. He was a great [leader]. He must [navigate] the boat. He tried to [rescue] his friends.",
     storyEnding: "The lighthouse illuminated the darkness. Richard became the true leader in the crew's hearts because he could always point out the right way.",
     words: [
       { word: "fragment", meaning: "碎片", pos: "n.", phonetic: "ˈfræɡmənt", example: "He found fragments of glass on the floor." },
@@ -162,7 +162,7 @@ export const WORD_LIST: Level[] = [
     name: "烈焰火山",
     storyTitle: "Richard：火炼金身",
     storySegment: "火山在【erupt喷发】，岩浆威胁着船只。Richard 组织大家进行【evacuate撤离】，他表现得异常【calm冷静】。他说：‘这是大自然的【challenge挑战】，也是对我们胆量的磨砺！’",
-    storyPassage: "When the giant [volcano] began to [erupt], the whole island trembled. Under heavy [pressure], Richard remained [calm]. He ordered the crew to [evacuate] urgently. This was a huge [challenge], but his [active] attitude infected everyone. He showed extraordinary [bravery]. They not only had to [survive] but also turn this experience into an eternal [legend].",
+    storyPassage: "The big [volcano] was hot. It began to [erupt] fire. The [pressure] in the air grew. Richard stayed very [calm]. They had to [evacuate] soon. It was a big [challenge] for him. He showed much [bravery] in fire. He wanted to [survive] the heat. He became a [legend] that day. He was always [active] and fast.",
     storyEnding: "The volcano went out, and they survived. Richard's name now stands for legend, and no disaster can crush him.",
     words: [
       { word: "erupt", meaning: "喷发", pos: "v.", phonetic: "ɪˈrʌpt", example: "The volcano is expected to erupt at any moment." },
@@ -182,7 +182,7 @@ export const WORD_LIST: Level[] = [
     name: "翡翠之城",
     storyTitle: "Richard：新文明的基石",
     storySegment: "Richard 来到了繁华的【翡翠之城】。这里的市民甚至不屑于【ignore忽视】这个小男孩。但 Richard 很快用 his 【creative创造力】解决了城里的水利问题。他已经学会了如何【manage管理】复杂的课题。",
-    storyPassage: "In this huge [city], people [ignore] Richard's existence at first. But he was not discouraged. He observed the complex [system] and found the [problem]. He proposed a brand new [solution] with [creative] thinking. Finally, he successfully [manage] and implemented the plan. He not only [achieve] his goal but also won the [respect] of all the people. This wisdom was the best [gift] he gave to the city.",
+    storyPassage: "The [city] was full of people. Many people would [ignore] him. Richard built a new [system]. He solved a hard [problem]. The [solution] worked very well. He was [creative] with his ideas. He could [manage] the project. He did [achieve] his goal. He got much [respect] from all. It was a great [gift] for him.",
     storyEnding: "The whole city was cheering Richard's name. He realized: dignity is not begged for, but achieved through strength.",
     words: [
       { word: "ignore", meaning: "忽视", pos: "v.", phonetic: "ɪɡˈnɔːr", example: "Please don't ignore my advice." },
@@ -202,7 +202,7 @@ export const WORD_LIST: Level[] = [
     name: "至高宝座",
     storyTitle: "Richard：词汇王座之巅",
     storySegment: "航程最后，Richard 站在了【One Piece】——世界上最大的智慧图书馆门前。为了打开大门，他必须【recite背诵】所有的核心词组。他深吸一口气，开始了他最后的【test测试】。他感到无比【proud自豪】。",
-    storyPassage: "Finally, the [final] moment arrived. Richard stood before the magnificent gate, ready to [complete] his [success]. To prove himself, he must [recite] every word fluently. This was not just a [test], but a summary of his years of exploration. He put on the [crown] belonging to the wise, sat on the supreme [throne], and felt very [proud]. He knew this wisdom would stay with him [forever], making him a truly [wealthy] king.",
+    storyPassage: "The [final] day was here. He must [complete] his work. He wanted to have [success]. He began to [recite] the words. This [test] was very hard. He wore a gold [crown]. He sat on the [throne]. He was [proud] of his work. His name lives [forever]. He became a [wealthy] king.",
     storyEnding: "The gate opened, and the golden light of wisdom illuminated the sea. Richard, once a 9-year-old poor boy, had finally become the famous wealthy Vocabulary King. His story will be told forever!",
     words: [
       { word: "recite", meaning: "背诵", pos: "v.", phonetic: "rɪˈsaɪt", example: "She recited the poem from memory." },
@@ -222,7 +222,7 @@ export const WORD_LIST: Level[] = [
     name: "蔚蓝海湾",
     storyTitle: "Richard：新的航程 第11章",
     storySegment: "Richard继续他的探险，来到了【蔚蓝海湾】。他在这里发现了大自然赋予生灵的各种【ability能力】。为了探索深海，他必须变得更加【able能干】，学习【about关于】海洋的一切。",
-    storyPassage: "In the Blue Bay, Richard observed the amazing [ability] of sea creatures. He wanted to be [able] to swim like them. He read [about] the legends mentioned [above] in ancient books. He heard that some treasures were sent [abroad] long ago. Even when he was [absent] from the main deck, he was studying. He found that the sea has [absolute] power to [absorb] everything. The concepts he learned were [abstract], but the resources in the bay were [abundant].",
+    storyPassage: "Birds have the [ability] to fly. Richard was [able] to climb. He read [about] the birds. The sky was [above] him. He wanted to go [abroad]. He was [absent] from home. This was [absolute] true. He could [absorb] the sun. The plan was [abstract]. There was [abundant] fruit.",
     storyEnding: "Richard mastered the basics of marine life and is ready to sail deeper into the bay!",
     words: [
       { word: "ability", meaning: "能力", pos: "n.", phonetic: "əˈbɪləti", example: "He has the ability to speak three languages." },
@@ -242,7 +242,7 @@ export const WORD_LIST: Level[] = [
     name: "智慧圣殿",
     storyTitle: "Richard：新的航程 第12章",
     storySegment: "在【智慧圣殿】，Richard遇到了一群学者。他们正在讨论【academic学术的】问题。Richard意识到，想要获得知识的回应，必须先【accept接受】未知的挑战。",
-    storyPassage: "Richard entered the grand [academy]. The atmosphere was very [academic]. He tried to [accelerate] his learning process. He noticed the scholars had a unique [accent]. They would [accept] students who could pass the entry barrier. He found an [access] to the secret library which was [accessible] only to a few. A small [accident] happened when he dropped a book, but it was just [accidental]. They had to [accommodate] many visiting explorers.",
+    storyPassage: "The [academy] was very old. It was hard [academic] work. He must [accelerate] his pace. He spoke with an [accent]. He did [accept] the truth. He found the secret [access]. It was [accessible] for him. There was a small [accident]. It was [accidental] and fast. They will [accommodate] him.",
     storyEnding: "Richard's thirst for knowledge impressed the scholars. He was allowed to stay in the temple for more studies.",
     words: [
       { word: "academic", meaning: "学术的", pos: "adj.", phonetic: "ˌækəˈdemɪk", example: "He has an excellent academic record." },
@@ -262,7 +262,7 @@ export const WORD_LIST: Level[] = [
     name: "珊瑚群岛",
     storyTitle: "Richard：新的航程 第13章",
     storySegment: "Richard来到了美丽的【珊瑚群岛】。在这里，他学会了如何【accompany陪伴】伙伴，并共同【accomplish完成】艰巨的任务。",
-    storyPassage: "The local people provided comfortable [accommodation] for Richard. They asked him to [accompany] them on a fishing trip. He wanted to [accomplish] his goal of finding the legendary pearl. Everything was in [accord] with the ancient maps. In [accordance] with the tradition, he was shown the hidden caves. [accordingly], he adjusted his plans. He opened an [account] at the island store. An [accountant] helped him manage his gold coins. He began to [accumulate] treasures with great [accuracy].",
+    storyPassage: "The [accommodation] was small. He let a pet [accompany] him. He wanted to [accomplish] much. They were in [accord] now. It was in [accordance] with maps. [accordingly], he went north. He checked his [account]. An [accountant] helped him. He did [accumulate] gold. He checked the [accuracy].",
     storyEnding: "The exploration of the coral islands was a great success. Richard's team became more united.",
     words: [
       { word: "accommodation", meaning: "住宿", pos: "n.", phonetic: "əˌkɒməˈdeɪʃn", example: "We are looking for cheap accommodation." },
@@ -282,7 +282,7 @@ export const WORD_LIST: Level[] = [
     name: "回音峡谷",
     storyTitle: "Richard：新的航程 第14章",
     storySegment: "在【回音峡谷】，每一个声音都必须【accurate精确】。Richard需要【acknowledge承认】自己的不足，并【acquire获得】更强大的技能。",
-    storyPassage: "Richard aimed to give an [accurate] description of the valley. He heard someone [accuse] him of taking the wrong path, but he was [accustomed] to such challenges. Despite a slight [ache] in his legs, he continued. He knew he must [achieve] the next level of trial. The water in the river was a bit [acid]. He had to [acknowledge] that the environment was harsh. He made an [acquaintance] with a local guide. He hoped to [acquaint] himself with the map and [acquire] more knowledge of the area.",
+    storyPassage: "His map was very [accurate]. People did [accuse] him. He was [accustomed] to it. He felt an [ache] in legs. He wanted to [achieve] more. He tasted a sour [acid]. He must [acknowledge] facts. He saw a new [acquaintance]. He did [acquaint] with him. He did [acquire] a key.",
     storyEnding: "Richard successfully navigated the valley and gained a deep understanding of its echoes.",
     words: [
       { word: "accurate", meaning: "精确的", pos: "adj.", phonetic: "ˈækjərət", example: "Can you give me an accurate time?" },
@@ -302,7 +302,7 @@ export const WORD_LIST: Level[] = [
     name: "烈焰盆地",
     storyTitle: "Richard：新的航程 第15章",
     storySegment: "【烈焰盆地】热浪逼人。Richard必须立刻采取【action行动】，并保持【active活跃】。他在这里看到了真实的【activity活动】之美。",
-    storyPassage: "The [acquisition] of fire-resistant materials was necessary. They measured every [acre] of the dry land. Richard had to [act] fast. Every [action] he took was critical. He needed to [activate] the ancient cooling system. He remained [active] throughout the day. This [activity] helped him stay focused. He met an [actor] and an [actress] who were performing a play about a volcanic eruption. It felt so [actual] and intense.",
+    storyPassage: "Richard worked to make an [acquisition]. He measured every [acre] of the land. He knew he must [act] quickly. Every [action] led him toward the goal. He used a key to [activate] it. He stayed [active] in the heat. It was a hard [activity]. He saw a famous [actor]. He met a kind [actress]. The [actual] victory was finally here.",
     storyEnding: "The heat didn't stop Richard. He learned how to survive in extreme conditions.",
     words: [
       { word: "acquisition", meaning: "获得，收购", pos: "n.", phonetic: "ˌækwɪˈzɪʃn", example: "The acquisition of knowledge is a lifelong process." },
@@ -322,7 +322,7 @@ export const WORD_LIST: Level[] = [
     name: "微风旷野",
     storyTitle: "Richard：新的航程 第16章",
     storySegment: "在【微风旷野】，Richard【actually实际上】遇到了很多惊喜。他需要【adapt适应】这里多变的天气，并在原有的基础上【add增加】补给。",
-    storyPassage: "[actually], the journey became more pleasant. Richard had to deal with [acute] shortages of fresh water. He learned how to [adapt] to the breezy wild. He decided to [add] more tools to his bag. The [addition] of a solar light was a great idea. There were [additional] maps hidden in the stones. He found the [address] of a secret base. He had [adequate] food for the week. He tried to [adhere] to the original schedule. He explored the [adjacent] cave.",
+    storyPassage: "He [actually] finished the task. He felt an [acute] pain. He must [adapt] to the cold. He decided to [add] more food. The [addition] helped a lot. He found an [additional] map. He wrote down the [address]. He had [adequate] water. He must [adhere] to his goal. He saw the [adjacent] hill.",
     storyEnding: "Richard enjoyed the freedom of the plains and gathered many extra supplies.",
     words: [
       { word: "actually", meaning: "实际上", pos: "adv.", phonetic: "ˈæktʃuəli", example: "I actually finished the project ahead of schedule." },
@@ -342,7 +342,7 @@ export const WORD_LIST: Level[] = [
     name: "银色港湾",
     storyTitle: "Richard：新的航程 第17章",
     storySegment: "Richard来到了【银色港湾】。他在这里学会了如何【administer管理】并【adjust调整】船队的航向，获得了大家的【admire钦佩】。",
-    storyPassage: "His room was [adjoin] to the captain's cabin. He needed to [adjust] the sails. He helped to [administer] the distribution of supplies. The [administration] of the port was very efficient. He did an [admirable] job leading the small group. Everyone began to [admire] his bravery. He requested [admission] to the local navigation school. They had to [admit] he was a genius. He saw an [adolescent] boy aiming to be a hero. He decided to [adopt] a new training method.",
+    storyPassage: "The room did [adjoin] others. He had to [adjust] the boat. He will [administer] the rules. The [administration] was fair. It was an [admirable] plan. They did [admire] his work. He got [admission] to school. He did [admit] his fear. He was an [adolescent] boy. He decided to [adopt] a dog.",
     storyEnding: "The port was a place of growth for Richard. He gained more confidence as a leader.",
     words: [
       { word: "adjoin", meaning: "毗连", pos: "v.", phonetic: "əˈdʒɔɪn", example: "Their back yard adjoins our garden." },
@@ -362,7 +362,7 @@ export const WORD_LIST: Level[] = [
     name: "探险者的乐园",
     storyTitle: "Richard：新的航程 第18章",
     storySegment: "一个充满【adventure冒险】气息的海岛出现在眼前。Richard怀揣着【advise建议】，准备迎接更【adventurous冒险的】挑战。",
-    storyPassage: "Richard began to [adore] the beauty of the unknown. He met an [adult] explorer who gave him a lot of [advance] information. He was using [advanced] technology to track the currents. This gave Richard an [advantage] over other sailors. He started a new [adventure]. His [adventurous] spirit led him to a hidden cave. He found an [adverb] written on an old wall. He faced [adverse] weather but did not stop. He saw an [advertise] board showing a reward. He read a colorful [advertisement].",
+    storyPassage: "He did [adore] the blue sea. He met an [adult] explorer. He made an [advance] move. He used [advanced] tools. He had a big [advantage]. This was a great [adventure]. He was an [adventurous] kid. He wrote an [adverb] down. He fought [adverse] winds. He saw an [advertise] sign.",
     storyEnding: "Richard's journey was becoming more legendary. He was no longer just a kid, but a true explorer.",
     words: [
       { word: "adore", meaning: "崇拜，爱慕", pos: "v.", phonetic: "əˈdɔːr", example: "I absolutely adore Italian food." },
@@ -382,7 +382,7 @@ export const WORD_LIST: Level[] = [
     name: "天空之径",
     storyTitle: "Richard：新的航程 第19章",
     storySegment: "飞跃【天空之径】，Richard需要倾听老教授的【advice建议】，并根据【advise建议】做出明智的选择。他在这里见到了奇特的【aeroplane飞机】。",
-    storyPassage: "Richard saw an [advertisement] about a sky race. He asked for [advice]. It was [advisable] to check the engine. He decided to [advise] his team to wait for a clear day. He began to [advocate] for safer flight routes. They used an [aerial] camera. They flew an old [aeroplane]. They loved the [aesthetic] view from the clouds. It was a grand [affair]. The high altitude did [affect] their breathing.",
+    storyPassage: "He saw a big [advertisement]. He asked for good [advice]. It was [advisable] to go. He did [advise] his crew. He would [advocate] for help. He used an [aerial] view. He flew his [aeroplane]. It was an [aesthetic] boat. This was a busy [affair]. The cold did [affect] him.",
     storyEnding: "Flying high was a new perspective. Richard felt closer to his dreams than ever.",
     words: [
       { word: "advertisement", meaning: "广告", pos: "n.", phonetic: "ədˈvɜːrtɪsmənt", example: "I saw an advertisement for a new car in the paper." },
@@ -402,7 +402,7 @@ export const WORD_LIST: Level[] = [
     name: "深渊边缘",
     storyTitle: "Richard：新的航程 第20章",
     storySegment: "虽然感到【afraid害怕】，但Richard深知探险的【agony痛苦】也是成长的一部分。他通过了各种【agency机构】的考验。",
-    storyPassage: "Richard showed great [affection] for his boat. He could not [afford] to lose it. He was a bit [afraid] of the dark caves. [afterwards], they found a hidden temple. He had reached a mature [age]. He worked with a private [agency]. He put a new item on his [agenda]. He acted as a secret [agent]. He had to deal with [aggressive] wolves. He felt the [agony] of old wounds but stayed strong.",
+    storyPassage: "He felt [affection] for birds. He could not [afford] a new boat. He was [afraid] of the bear. He went home [afterwards]. He was at a young [age]. He used a travel [agency]. He set a new [agenda]. He was a smart [agent]. The wolf was [aggressive]. He felt the [agony] of cold.",
     storyEnding: "The Abyss was dark, but Richard's heart was bright. He survived the hardest trial yet.",
     words: [
       { word: "affection", meaning: "喜爱", pos: "n.", phonetic: "əˈfekʃn", example: "He has a great affection for his old hometown." },
@@ -422,7 +422,7 @@ export const WORD_LIST: Level[] = [
     name: "云端空港",
     storyTitle: "Richard：新的航程 第21章",
     storySegment: "最终Richard抵达了【云端空港】。他与当地签署了【agreement协议】，并得到了【aid援助】。他在【airport机场】看到了最先进的【aircraft飞行器】。",
-    storyPassage: "They managed to [agree] on a new trade route. They signed an [agreement]. Richard learned about [agriculture] on floating islands. He received medical [aid]. He set a new [aim] for his journey. The [air] was thin but fresh. He saw a huge [aircraft] landing. He worked for a famous [airline]. He boarded a small [airplane]. Finally, they arrived at the grand [airport].",
+    storyPassage: "They both did [agree] now. They signed the [agreement]. He learned [agriculture] work. He gave some [aid] to them. He had a clear [aim]. The [air] was very clean. He saw an [aircraft] fly. He flew with the [airline]. It was a big [airplane]. He reached the [airport].",
     storyEnding: "The high port opened new doors. Richard is now a world-recognized explorer!",
     words: [
       { word: "agree", meaning: "同意", pos: "v.", phonetic: "əˈɡriː", example: "I agree with your opinion." },
@@ -442,7 +442,7 @@ export const WORD_LIST: Level[] = [
     name: "机械迷宫",
     storyTitle: "Richard：新的航程 第22章",
     storySegment: "在【机械迷宫】，Richard必须在那无情的【alarm警报】响起前找到出口。他在这里遇到了一些【alien外星人】般的怪异生物。",
-    storyPassage: "Suddenly, the [alarm] went off. Richard had drunk too much [alcohol] and was sleepy. He needed to stay [alert]. He saw an [alien] shadow moving in the maze. They looked surprisingly [alike]. He was glad he was [alive]. He used [all] his strength to run. Some would [allege] that he cheated, but he didn't. He tried to [alleviate] the pain in his feet. He formed a temporary [alliance] with a small robot.",
+    storyPassage: "He set a loud [alarm]. There was no [alcohol] there. He must stay [alert] now. He saw an [alien] friend. They looked [alike] soon. He was happy and [alive]. He used [all] his power. They did [allege] he forgot. He did [alleviate] the pain. He formed an [alliance].",
     storyEnding: "The maze was a test of timing and trust. Richard made it out just in time.",
     words: [
       { word: "alarm", meaning: "警报", pos: "n.", phonetic: "əˈlɑːm", example: "She set her alarm for six o'clock." },
@@ -462,7 +462,7 @@ export const WORD_LIST: Level[] = [
     name: "幽暗隧道",
     storyTitle: "Richard：新的航程 第23章",
     storySegment: "在【幽暗隧道】，Richard甚至不敢【aloud大声地】说话。他独自【alone单独地】穿行在这里，尝试各种【alternative选择】路径来【alter改变】现状。",
-    storyPassage: "They needed to [allocate] their resources carefully. Richard was given a small [allowance]. He found a piece of strange [alloy]. He was [almost] at the end of the tunnel. He felt [alone] in the dark. He walked [alongside] the underground river. He did not dare to speak [aloud]. He memorized the [alphabet] of the ancient guards. He decided to [alter] his plan. Exploring the [alternative] path was worth a try.",
+    storyPassage: "He must [allocate] the food. He got a small [allowance]. He found a hard [alloy]. He was [almost] done. He was not [alone] now. He walked [alongside] her. He spoke the words [aloud]. He read the [alphabet]. He did [alter] his plan. This was an [alternative].",
     storyEnding: "Darkness could not hide the truth. Richard found the exit and a hidden treasure.",
     words: [
       { word: "allocate", meaning: "分配", pos: "v.", phonetic: "ˈæləkeɪt", example: "The government allocated extra funds for education." },
@@ -482,7 +482,7 @@ export const WORD_LIST: Level[] = [
     name: "高空之城",
     storyTitle: "Richard：新的航程 第24章",
     storySegment: "【高空之城】让Richard感到【amaze大吃一惊】。虽然【altitude高度】很高，但他充满了【ambition雄心】。",
-    storyPassage: "Choosing an [alternative] route was the best decision. [although] it was dangerous, the view was great. At this [altitude], the air was freezing. He was [altogether] satisfied with the progress. He found a plate made of [aluminum]. The beauty of the city would [amaze] anyone. He acted as an [ambassador] of his crew. His words were never [ambiguous]. His [ambition] was to reach the top. He was very [ambitious].",
+    storyPassage: "It was an [alternative] road. [although] it was very hard. They were at a high [altitude]. He was [altogether] bored. He found some [aluminum]. The show did [amaze] him. He was a good [ambassador]. His words were [ambiguous]. He had a big [ambition]. He was very [ambitious].",
     storyEnding: "High in the sky, Richard saw the world differently. His vision became broader.",
     words: [
       { word: "alternative", meaning: "选择", pos: "n.", phonetic: "ɔːlˈtɜːrnətɪv", example: "We have no alternative but to go on." },
@@ -502,7 +502,7 @@ export const WORD_LIST: Level[] = [
     name: "急救中心",
     storyTitle: "Richard：新的航程 第25章",
     storySegment: "在处理航行中的伤员时，Richard学会了如何【amend修改】计划，并在忙碌中寻找【amusement娱乐】来【amplify放大】大家生存的希望。",
-    storyPassage: "Suddenly, a loud [ambulance] siren echoed. Richard needed to [amend] the safety rules. This [amendment] saved many lives. He was [amiable] to all the patients. [amid] the chaos, he stayed calm. He managed a large [amount] of medicine. He had [ample] space in the clinic. He used a speaker to [amplify] his voice. He tried to [amuse] the children. The hospital [amusement] park was a happy place.",
+    storyPassage: "He heard an [ambulance] near. He did [amend] the law. He signed an [amendment]. He was very [amiable] today. He was [amid] the crowd. He spent a large [amount]. He had [ample] time now. He will [amplify] the sound. He did [amuse] the baby. It was a day of [amusement].",
     storyEnding: "Richard learned that saving lives is as important as exploring new worlds.",
     words: [
       { word: "ambulance", meaning: "救护车", pos: "n.", phonetic: "ˈæmbjələns", example: "The ambulance arrived at the scene within minutes." },
@@ -522,7 +522,7 @@ export const WORD_LIST: Level[] = [
     name: "古老遗迹",
     storyTitle: "Richard：新的航程 第26章",
     storySegment: "在【古老遗迹】，Richard开始【analyse分析】墙上的文字。他通过【analogy类比】想通了这都是他【ancestor祖先】留下的智慧。",
-    storyPassage: "He used an [analogy] to explain the machine. He had to [analyse] the data. His thorough [analysis] was correct. He respected his [ancestor]. He dropped the [anchor] and stayed there. The city was very [ancient]. [and] they found more gold. He felt like an [angel] had guided him. He had to control his [anger]. He measured the [angle] of the wall.",
+    storyPassage: "He used a smart [analogy]. He did [analyse] the map. His [analysis] was right. He respected his [ancestor]. He did drop the [anchor]. The town was very [ancient]. He had a cat [and] a dog. He saw an [angel] fly. He felt no [anger] now. He checked the [angle] well.",
     storyEnding: "The ruins told legends of the past. Richard felt a connection to history.",
     words: [
       { word: "analogy", meaning: "类比", pos: "n.", phonetic: "əˈnælədʒi", example: "She made an analogy between the brain and a computer." },
@@ -542,7 +542,7 @@ export const WORD_LIST: Level[] = [
     name: "欢乐庆典",
     storyTitle: "Richard：新的航程 第27章",
     storySegment: "为了庆祝一年的探险，大家举办了【anniversary周年纪念】。Richard【announce宣布】了一个好消息，大家的掌声经久不息。",
-    storyPassage: "Richard was [angry] at first because of the noise. But he saw a friendly [animal]. He hurt his [ankle] while dancing. It was their first [anniversary]. He decided to [announce] the winner. The [announcement] made everyone happy. He didn't want to [annoy] his neighbors. This was an [annual] tradition. A letter from an [anonymous] person arrived. They found [another] way to celebrate.",
+    storyPassage: "He felt [angry] at the rain. He saw a small [animal]. He hurt his [ankle] today. It was their [anniversary]. He will [announce] it. He made an [announcement]. He did not [annoy] them. It was an [annual] trip. He got an [anonymous] gift. He found [another] way.",
     storyEnding: "Joy and friendship were the best fuel for the next adventure.",
     words: [
       { word: "angry", meaning: "生气", pos: "adj.", phonetic: "ˈæŋɡri", example: "She was angry with herself for having made such a mistake." },
@@ -562,7 +562,7 @@ export const WORD_LIST: Level[] = [
     name: "古玩集境",
     storyTitle: "Richard：新的航程 第28章",
     storySegment: "在【古玩集境】，Richard试图【anticipate预期】市场的变化。他在这里发现了一件【antique古董】，让他不再感到【anxious焦虑】。",
-    storyPassage: "Richard gave a clear [answer]. He saw a tiny [ant] carrying food. They reached the [antarctic] region. He fixed the broken [antenna]. He could [anticipate] the storm. He bought a beautiful [antique]. His [anxiety] was gone. He felt less [anxious]. He didn't have [any] doubt. [anybody] could join the quest.",
+    storyPassage: "He gave a short [answer]. He saw a busy [ant]. He reaches the [antarctic] ice. He fixed the [antenna]. He could [anticipate] joy. He bought an [antique]. His [anxiety] was low. He was not [anxious]. He did not have [any] fear. [anybody] could go.",
     storyEnding: "Every artifact has a story. Richard learned that time is the greatest creator.",
     words: [
       { word: "answer", meaning: "回答", pos: "v./n.", phonetic: "ˈɑːnsər", example: "She didn't know the answer to the question." },
@@ -582,7 +582,7 @@ export const WORD_LIST: Level[] = [
     name: "生活长廊",
     storyTitle: "Richard：新的航程 第29章",
     storySegment: "在【生活长廊】，Richard试图为自己的过错【apologise道歉】。他发现这里的【apparatus装置】非常先进，让他【apparent明显地】感觉到文明的进步。",
-    storyPassage: "[anyhow], they had to move. [anyone] could find the key. [anything] was possible now. [anyway], they started at dawn. They went [anywhere] they liked. They kept their supplies [apart]. They stayed in a luxury [apartment]. He had to [apologise] for the delay. His [apology] was accepted. They fixed the scientific [apparatus].",
+    storyPassage: "He did it [anyhow] now. [anyone] could join. [anything] was possible. [anyway], he was back. He went [anywhere] he liked. They were far [apart]. It was a nice [apartment]. He must [apologise] soon. He made an [apology]. He used a new [apparatus].",
     storyEnding: "Simplicity and apology build strong bridges. Richard's team became more solid.",
     words: [
       { word: "anyhow", meaning: "不管怎样", pos: "adv.", phonetic: "ˈenihaʊ", example: "Anyhow, I'm glad you're here." },
@@ -602,7 +602,7 @@ export const WORD_LIST: Level[] = [
     name: "果木园林",
     storyTitle: "Richard：新的航程 第30章",
     storySegment: "在【果木园林】，大家都发出了真诚的【applause掌声】。Richard随手摘下一个【apple苹果】，感叹这丰收的喜悦。",
-    storyPassage: "The solution became [apparent]. He made an [appeal] for more helpers. New stars [appear] in the sky. He liked his new [appearance]. Read the [appendix] for more info. He had a great [appetite]. They [applaud] his speech. The [applause] lasted for minutes. He picked a red [apple]. Every [appliance] in the garden was solar-powered.",
+    storyPassage: "The truth was [apparent]. He made an [appeal] now. A star did [appear]. He had a new [appearance]. He read the [appendix]. He had a big [appetite]. They did [applaud] him. He heard the [applause]. He ate a red [apple]. He used a new [appliance].",
     storyEnding: "Nature's gifts are abundant. Richard learned the importance of protecting the environment.",
     words: [
       { word: "apparent", meaning: "明显的", pos: "adj.", phonetic: "əˈpærənt", example: "His disappointment was apparent to everyone." },
@@ -622,7 +622,7 @@ export const WORD_LIST: Level[] = [
     name: "职场之门",
     storyTitle: "Richard：新的航程 第31章",
     storySegment: "在此地，Richard需要【apply应用】他的知识，并【appoint任命】合适的助手。他学会了通过专业的【approach方式】来解决问题。",
-    storyPassage: "The rules were [applicable]. His [application] for a visa was approved. He had to [apply] for a new job. They decided to [appoint] him as the manager. He missed his [appointment]. They made an [appraisal] of the ship. He began to [appreciate] the music. He expressed his [appreciation]. They took a new [approach] to the island. His behavior was [appropriate].",
+    storyPassage: "The rule was [applicable]. He made an [application]. He did [apply] for it. They will [appoint] him. He kept his [appointment]. He had an [appraisal]. He did [appreciate] art. He felt [appreciation]. It was a new [approach]. It was [appropriate].",
     storyEnding: "Richard's expertise was growing. He proved himself in the business world.",
     words: [
       { word: "applicable", meaning: "适用的", pos: "adj.", phonetic: "əˈplɪkəbl", example: "This rule is applicable only to new members." },
@@ -642,7 +642,7 @@ export const WORD_LIST: Level[] = [
     name: "建筑森林",
     storyTitle: "Richard：新的航程 第32章",
     storySegment: "在【建筑森林】，Richard感叹于宏伟的【architecture建筑】。由于这里的【area面积】巨大，他必须保持警惕。",
-    storyPassage: "His [approval] was needed for the project. They [approve] of his plan. The measurements were [approximate]. She wore a white [apron]. He was [apt] for the role. His decisions were [arbitrary]. He walked under a giant [arch]. He loved the [architecture]. He reached the [arctic] circle. He explored the northern [area].",
+    storyPassage: "He got full [approval]. They did [approve] it. It was [approximate] size. She wore an [apron]. He was [apt] for it. The rule was [arbitrary]. He walked under an [arch]. He saw the [architecture]. He saw the [arctic] sea. It was a large [area].",
     storyEnding: "Modern engineering is a miracle. Richard's horizon was further expanded.",
     words: [
       { word: "approval", meaning: "赞成", pos: "n.", phonetic: "əˈpruːvl", example: "The plan received the approval of the committee." },
@@ -662,7 +662,7 @@ export const WORD_LIST: Level[] = [
     name: "算数迷阵",
     storyTitle: "Richard：新的航程 第33章",
     storySegment: "为了解开谜题，Richard必须精通【arithmetic算数】。他在复杂的【arrangement安排】中寻找规律，成功【arouse激发】了装置的能量。",
-    storyPassage: "They started to [argue]. His [argument] was weak. A new chance did [arise]. He was good at [arithmetic]. He used his [arm] to move the lever. He joined the [army]. They sailed [around] the point. They tried to [arouse] his curiosity. He had to [arrange] the files. The final [arrangement] was perfect.",
+    storyPassage: "They did not [argue] now. It was a good [argument]. A problem did [arise]. He was good at [arithmetic]. He used his [arm] well. He joined the [army]. He looked [around] him. He did [arouse] them. He will [arrange] books. It was a good [arrangement].",
     storyEnding: "Numbers are the language of the universe. Richard's logic was sharper than ever.",
     words: [
       { word: "argue", meaning: "争论", pos: "v.", phonetic: "ˈɑːɡjuː", example: "They often argue about politics." },
@@ -682,7 +682,7 @@ export const WORD_LIST: Level[] = [
     name: "艺术走廊",
     storyTitle: "Richard：新的航程 第34章",
     storySegment: "在【艺术走廊】，Richard被琳琅满目的【array陈列】震撼。他在这里遇到了【arrogant傲慢的】评论家，但他用流利的口才进行了【articulate表达】。",
-    storyPassage: "He saw an [array] of paintings. They tried to [arrest] the progress. His [arrival] was sudden. When did you [arrive]? Don't be [arrogant]. He shot an [arrow]. He loved [art]. He felt his [artery] beating fast. He read an [article]. He tried to [articulate] his thoughts.",
+    storyPassage: "He saw a long [array]. They did [arrest] him. His [arrival] was late. When did he [arrive]? He was not [arrogant]. He shot an [arrow]. He loved fine [art]. He checked his [artery]. He read an [article]. He can [articulate].",
     storyEnding: "Art is the echo of life. Richard learned how to express his inner world.",
     words: [
       { word: "array", meaning: "陈列", pos: "n.", phonetic: "əˈreɪ", example: "The shop has a vast array of goods on display." },
@@ -702,7 +702,7 @@ export const WORD_LIST: Level[] = [
     name: "艺术家之梦",
     storyTitle: "Richard：新的航程 第35章",
     storySegment: "Richard见识到了【artificial人造的】美景。这里的所有【artist艺术家】都非常专注，他也受到了感染，感觉如果不努力就会感到【ashamed羞愧】。",
-    storyPassage: "The light was [artificial]. They used heavy [artillery]. He met a famous [artist]. His style was very [artistic]. He acted [as] a judge. The balloon began to [ascend]. They tried to [ascertain] the truth. There were only [ash] remaining. He was [ashamed] of his mistake. Put your books [aside].",
+    storyPassage: "The silk was [artificial]. He heard the [artillery]. He met an [artist]. She was very [artistic]. He came [as] a friend. He saw the bird [ascend]. He will [ascertain] it. He saw the [ash] burn. He was not [ashamed]. Put the box [aside].",
     storyEnding: "Creativity has no limits. Richard's adventure was becoming a work of art.",
     words: [
       { word: "artificial", meaning: "人造的", pos: "adj.", phonetic: "ˌɑːrtɪˈfɪʃl", example: "The flowers are made of artificial silk." },
@@ -722,7 +722,7 @@ export const WORD_LIST: Level[] = [
     name: "审判大厅",
     storyTitle: "Richard：新的航程 第36章",
     storySegment: "在这个庄严的【审判大厅】，Richard需要面对【search】各种【aspect方面】的证据。他【assert断言】了自己的清白，展现出非凡的勇气。",
-    storyPassage: "He decided to [ask] for help. He was [asleep] during the talk. He looked at every [aspect]. He decided to [aspire] to greatness. The [assassin] was caught. They tried to [assassinate] the king. It was a violent [assault]. They began to [assemble] the kit. The [assembly] line was fast. He tried to [assert] his rights.",
+    storyPassage: "He will [ask] a question. The boy was [asleep]. He saw every [aspect]. He did [aspire] to win. He saw an [assassin]. They did [assassinate] him. It was a cold [assault]. They will [assemble] it. He was at the [assembly]. He did [assert] truth.",
     storyEnding: "Truth eventually prevails. Richard's integrity was his strongest shield.",
     words: [
       { word: "ask", meaning: "问", pos: "v.", phonetic: "ɑːsk", example: "Can I ask you a question?" },
@@ -742,7 +742,7 @@ export const WORD_LIST: Level[] = [
     name: "任务中心",
     storyTitle: "Richard：新的航程 第37章",
     storySegment: "Richard在【任务中心】接到了新的【assignment作业】。由于任务艰巨，他需要大家的【assistance协助】，甚至需要一位【assistant助手】来共同完成。",
-    storyPassage: "They needed to [assess] the risk. Their [assessment] was fair. The gold was his best [asset]. They decided to [assign] him a task. He finished the [assignment] on time. He tried to [assimilate] into the crowd. He needed someone to [assist] him. He asked for [assistance]. He hired a new [assistant]. He decided to [associate] with them.",
+    storyPassage: "He will [assess] the cost. He made an [assessment]. He had a big [asset]. He will [assign] jobs. He finished the [assignment]. He did [assimilate] well. He will [assist] her. He gave some [assistance]. He was an [assistant]. He will [associate].",
     storyEnding: "Collaboration is a shortcut to success. Richard's team became his family.",
     words: [
       { word: "assess", meaning: "评估", pos: "v.", phonetic: "əˈses", example: "The tests are designed to assess a child's reading ability." },
@@ -762,7 +762,7 @@ export const WORD_LIST: Level[] = [
     name: "群星殿堂",
     storyTitle: "Richard：新的航程 第38章",
     storySegment: "在此【群星殿堂】，Richard开始学习【astronomy天文学】。他感受到了大家对知识渴望的【atmosphere氛围】，并【assure向大家保证】一定会揭开秘密。",
-    storyPassage: "He joined the [association]. Don't [assume] anything. This is a false [assumption]. He gave them [assurance]. I [assure] you it's safe. The fireworks will [astonish] you. He wanted to be an [astronaut]. He studied [astronomy]. He looked [at] the clock. He was a great [athlete].",
+    storyPassage: "He joined the [association]. Do not [assume] it. This is an [assumption]. He gave an [assurance]. I [assure] you of it. The car did [astonish]. He was an [astronaut]. He studied [astronomy]. He sat [at] the desk. He was a top [athlete].",
     storyEnding: "The stars are a map to the future. Richard's curiosity reached beyond the sky.",
     words: [
       { word: "association", meaning: "协会", pos: "n.", phonetic: "əˌsəʊʃiˈeɪʃn", example: "He is a member of the local football association." },
@@ -782,7 +782,7 @@ export const WORD_LIST: Level[] = [
     name: "防卸港口",
     storyTitle: "Richard：新的航程 第39章",
     storySegment: "由于【防卸港口】遭到了【attack攻击】，Richard只能【attempt尝试】带领大家【attend参加】紧急会议。他呼吁所有人都要保持【attention注意】。",
-    storyPassage: "They enjoyed the [atmosphere]. He looked at the [atom]. This is an [atomic] bomb. They tried to [attach] the wires. Look at the [attachment]. They were under [attack]. He hoped to [attain] his goals. Don't [attempt] to escape. You must [attend] the meeting. He noticed the [attendance] was low.",
+    storyPassage: "It was a good [atmosphere]. He saw an [atom]. It was an [atomic] toy. They will [attach] it. There was an [attachment]. They were under [attack]. He will [attain] it. He made an [attempt]. He must [attend] class. He checked [attendance].",
     storyEnding: "Vigilance is the price of freedom. Richard's quick thinking saved the port.",
     words: [
       { word: "atmosphere", meaning: "大气", pos: "n.", phonetic: "ˈætməsfɪər", example: "The atmosphere around Mars is very thin." },
@@ -802,7 +802,7 @@ export const WORD_LIST: Level[] = [
     name: "真理彼岸",
     storyTitle: "Richard：新的航程 第40章",
     storySegment: "Richard感到了终点的【attraction吸引力】。他表现出【attentive细心的】素质，用正确的【attitude态度】迎接挑战。最终他抵达了辉煌的【audience观众】席前。",
-    storyPassage: "He paid full [attention]. He was being [attentive]. Changing your [attitude] is hard. He hired a smart [attorney]. They tried to [attract] birds. The [attraction] of the island was strong. It was an [attractive] house. Everyone had a unique [attribute]. They went to a public [auction]. They faced a large [audience].",
+    storyPassage: "He paid [attention]. He was very [attentive]. He had a good [attitude]. He was an [attorney]. They did [attract] him. It was a big [attraction]. She was [attractive]. It was an [attribute]. He was at an [auction]. There was an [audience].",
     storyEnding: "The journey of 399 words is complete. Richard, once a student, is now the master of vocabulary! You have reached the pinnacle of knowledge!",
     words: [
       { word: "attention", meaning: "注意", pos: "n.", phonetic: "əˈtenʃn", example: "He paid close attention to what she was saying." },

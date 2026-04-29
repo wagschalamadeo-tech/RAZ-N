@@ -66,6 +66,22 @@ export default function ClozeTest({ passage, words, onFinish, onCorrect, onWrong
     if (allCorrect) {
       setIsFinished(true);
       setTimeout(onFinish, 2000);
+    } else {
+      // Keep correct ones, remove incorrect ones from userAnswers
+      // This allows words to return to pool and slots to be empty for wrong ones
+      setTimeout(() => {
+        setUserAnswers(prev => {
+          const next = { ...prev };
+          Object.keys(newResults).forEach(idxStr => {
+            const idx = parseInt(idxStr);
+            if (!newResults[idx]) {
+              delete next[idx];
+            }
+          });
+          return next;
+        });
+        setShowErrors(false);
+      }, 1500); // Give user 1.5s to see what was wrong
     }
   };
 

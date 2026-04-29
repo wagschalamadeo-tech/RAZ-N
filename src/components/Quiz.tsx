@@ -78,13 +78,13 @@ export default function Quiz({ words, allWordsInPool, onFinish, onCorrect, onWro
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-5 auto-rows-fr">
-        {options.map((option, idx) => {
+        {options.map((option) => {
           const isThisSelected = selectedAnswer === option;
           const isThisCorrect = option === currentQuestion.meaning;
           
           return (
             <motion.button
-              key={idx}
+              key={option}
               whileHover={!selectedAnswer ? { y: -2 } : {}}
               whileTap={!selectedAnswer ? { scale: 0.98 } : {}}
               onClick={() => handleAnswer(option)}
@@ -94,7 +94,7 @@ export default function Quiz({ words, allWordsInPool, onFinish, onCorrect, onWro
                 !selectedAnswer 
                   ? "bg-white border-[#e9e3d0] text-[#2c3e50] hover:border-[#8fb339] hover:shadow-md"
                   : isThisCorrect
-                    ? "bg-emerald-50 border-emerald-500 text-emerald-900 shadow-lg scale-[1.02] z-10"
+                    ? "bg-emerald-50 border-emerald-500 text-emerald-900 shadow-lg z-10"
                     : isThisSelected
                       ? "bg-rose-50 border-rose-500 text-rose-900"
                       : "bg-slate-50 border-slate-200 text-slate-400 opacity-50"

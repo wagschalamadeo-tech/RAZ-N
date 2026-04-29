@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Leaf, Map as MapIcon, ChevronLeft, Lock, Star } from 'lucide-react';
+import { Leaf, Map as MapIcon, ChevronLeft, Lock, Star, Zap } from 'lucide-react';
 import { WORD_LIST, Level, Word } from './data/words';
 import StatsBar from './components/StatsBar';
 import WordCard from './components/WordCard';
@@ -13,6 +13,9 @@ type GameState = 'MAP' | 'STORY_INTRO' | 'LEARN' | 'STORY_PASSAGE' | 'QUIZ' | 'S
 interface MasteryData {
   correctStreak: number;
 }
+
+const allWords = WORD_LIST.flatMap(l => l.words);
+const totalWordsCount = allWords.length;
 
 export default function App() {
   const [gameState, setGameState] = useState<GameState>('MAP');
@@ -46,10 +49,8 @@ export default function App() {
   }, [points, unlockedLevels, mistakeBook, gameState]);
 
   const currentLevel = WORD_LIST.find(l => l.id === currentLevelId) || WORD_LIST[0];
-  const allWords = WORD_LIST.flatMap(l => l.words);
   
   // Progress Calculation
-  const totalWordsCount = allWords.length;
   const masteredCount = allWords.filter(w => !mistakeBook[w.word] && unlockedLevels.includes(WORD_LIST.find(l => l.words.includes(w))?.id || 0)).length;
   const totalProgress = Math.round((masteredCount / totalWordsCount) * 100);
 
